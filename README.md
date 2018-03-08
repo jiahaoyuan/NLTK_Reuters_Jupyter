@@ -2,7 +2,8 @@
 Space Vector Model Search System In NTLK Reuters Corpus
 
 This is a project I did for my Graduate Course: "CSC 9010, TOP: Information Retrieval", Fall 2017.
-In this project:
+
+<br><br>In this project:
 <br>1> Inverted index posting lists constructed from Reuters Corpus
 <br>2> Search result ranked by TF-IDF scores and space vector model
 

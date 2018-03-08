@@ -9,3 +9,6 @@ In this project:
 The presentation is host in Jupyter where all the Python code used in demonstrated:
 http://www.csc.villanova.edu/~jiyuan/NLTK_Reuters_Jupyter/index.html
 
+Note:
+All the Python files used in the Jupyter Presentation are also indexed accordingly and attached.
+
